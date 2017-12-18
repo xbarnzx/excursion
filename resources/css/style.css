@@ -1,3 +1,14 @@
 body {
   font-family: verdana;
+  background-color: black;
+  text-align: center;
+}
+
+h1, h2 {
+  color: white;
+}
+
+a {
+  color: aquamarine;
+  font-size: 16px
 }
